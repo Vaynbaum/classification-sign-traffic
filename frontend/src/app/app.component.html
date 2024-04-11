@@ -1,0 +1,35 @@
+<main>
+  <webcam [trigger]="triggerObservable" (imageCapture)="handleImage($event)" *ngIf="showWebcam"
+    [allowCameraSwitch]="allowCameraSwitch" [switchCamera]="nextWebcamObservable" [videoOptions]="videoOptions"
+    (cameraSwitched)="cameraWasSwitched($event)" (initError)="handleInitError($event)"
+    class="webcam">
+  </webcam>
+
+
+  <div class="info_block" [ngClass]="{hiddenBackground: traffic_signs.length === 0}">
+    <div *ngFor="let s of traffic_signs" class="item" [ngStyle]="item_style">
+      <img [src]="s.sign.img">
+      <span>{{s.sign.name}} x{{s.count}}</span>
+    </div>
+  </div>
+
+  <div class="elements" >
+    <button id="powerBtn" (click)="powerBtn?.action()" class="element power-camera" mat-mini-fab color="warn">
+      <mat-icon>{{powerBtn?.icon}}</mat-icon>
+    </button>
+    <!-- <button class="element switch-camera" (click)="showNextWebcam(true);" mat-mini-fab color="warn">
+      <mat-icon>switch_camera</mat-icon>
+    </button> -->
+    <!-- <button (click)="schangeShowReport()" class="element power-camera" mat-mini-fab color="warn">
+      <mat-icon>{{signBtn?.icon}}</mat-icon>
+    </button> -->
+  </div>
+
+  <!-- <div class="camera">
+
+
+    <div *ngIf="!showWebcam" class="rectangle"></div>
+    <img [ngStyle]="imgStyle" *ngIf="imagePath" class=" show-camera" [src]="imagePath">
+
+  </div> -->
+</main>

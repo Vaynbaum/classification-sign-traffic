@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" version="1.1">
+<title>4.1.2 Движение направо</title>
+<circle style="fill:#ffffff;" cx="350" cy="350" r="350"/>
+<circle style="fill:none;stroke:#000000;stroke-width:2px;" cx="350" cy="350" r="349"/>
+<path style="fill:#0d69e1;" d="m 608.172,350 l -156.559,90.323 l 0,-56.452 l -429.870,0 c 17.360,168.247 159.117,296.129 328.257,296.129 c 182.254,0 330,-147.746 330,-330 c 0,-182.254 -147.746,-330 -330,-330 c -169.140,0 -310.897,127.882 -328.257,296.129 l 429.870,0 l 0,-56.452 z"/>
+</svg>

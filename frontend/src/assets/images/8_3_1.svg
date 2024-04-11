@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(0 -752.36)">
+<rect y="752.36" width="600" height="300" rx="45" ry="45"/>
+<path transform="translate(0 752.36)" d="M45 10c-19.39 0-35 15.61-35 35v76.875h393.125v-56.25L549.375 150l-146.25 84.375v-56.25H10V255c0 19.39 15.61 35 35 35h510c19.39 0 35-15.61 35-35V45c0-19.39-15.61-35-35-35H45z" fill="#fff"/>
+</g>
+</svg>

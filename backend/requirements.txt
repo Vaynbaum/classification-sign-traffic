@@ -1,0 +1,7 @@
+fastapi
+python-dotenv
+python-multipart
+uvicorn[standard]
+pillow
+ultralytics
+pymongo

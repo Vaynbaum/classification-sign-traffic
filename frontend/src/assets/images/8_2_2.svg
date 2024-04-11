@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="8.2.4.svg">
+  <title
+     id="title3006">8.2.2 Зона действия</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-10.64291"
+     inkscape:cy="295.65966"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>8.2.2 Зона действия</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36218)">
+    <rect
+       y="0"
+       x="-1052.3622"
+       height="300"
+       width="600"
+       id="rect5622"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="45"
+       ry="45"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <rect
+       y="10"
+       x="-1042.3621"
+       height="280"
+       width="580"
+       id="rect9537"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="35"
+       ry="35"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <g
+       style="font-size:190.85067749px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:-3.01874995px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="text10846">
+      <path
+         d="m 78.974269,792.17226 6.297992,8.20648 14.313616,-8.96987 0,82.82813 18.703123,0 0,-106.875 -16.03125,0 z"
+         style="fill:#000000;font-family:Russian Road Sign;-inkscape-font-specification:Russian Road Sign"
+         id="path11297" />
+      <path
+         d="m 183.45455,766.02606 c -10.85453,0.27843 -19.53811,5.39951 -26.05078,15.36328 -6.51271,9.96395 -9.85255,23.10065 -10.01953,39.41016 0.16698,16.3096 3.50682,29.44631 10.01953,39.41015 6.51267,9.96387 15.19625,15.08496 26.05078,15.36329 10.85443,-0.27832 19.53802,-5.39941 26.05078,-15.36329 6.51262,-9.96384 9.85246,-23.10055 10.01954,-39.41015 -0.16708,-15.55804 -3.50692,-28.48004 -10.01954,-38.76605 -6.51276,-10.28582 -15.19635,-15.62161 -26.05078,-16.00739 z m 0,16.60379 c 5.23237,-0.0794 9.41512,2.94234 12.54827,9.06529 3.13303,6.12312 4.73934,15.82456 4.81892,29.10436 -0.0796,13.27989 -1.68589,22.98133 -4.81892,29.10435 -3.13315,6.12306 -7.3159,9.14482 -12.54827,9.06529 -5.23246,0.0795 -9.41522,-2.94223 -12.54827,-9.06529 -3.13312,-6.12302 -4.73943,-15.82446 -4.81891,-29.10435 0.0795,-13.27979 1.68579,-22.98123 4.81891,-29.10436 3.13306,-6.12296 7.31581,-9.14472 12.54827,-9.06529 z"
+         style="fill:#000000;font-family:Russian Road Sign;-inkscape-font-specification:Russian Road Sign"
+         id="path11299" />
+    </g>
+    <path
+       id="path11249"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 131.25,583.61221 -28.125,0 46.875,-81.25002 46.875,81.25002 -28.125,0 0,112.5 -37.5,0 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <g
+       style="font-size:190.85067749px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:-3.01874995px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="text11259">
+      <path
+         d="m 108.58594,996.11206 16.03125,0 4.00781,-52.10156 21.375,42.75 21.375,-42.75 4.00782,52.10156 16.03125,0 -6.67969,-74.8125 -16.03125,0 L 150,958.70581 l -18.70312,-37.40625 -16.03125,0 z"
+         style="fill:#000000;font-family:Russian Road Sign;-inkscape-font-specification:Russian Road Sign"
+         id="path11302" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+version: "3.9"
+
+services:
+  mongo:
+    image: mongo
+    container_name: mongo
+    restart: always
+    networks:
+        - microservices
+    ports:
+      - "27017:27017"
+    expose:
+      - 27017
+  
+  backend:
+    image: vaynbaum/big-data:backend
+    container_name: backend
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    expose:
+      - 8000
+    depends_on:
+      - mongo
+    networks:
+      - microservices
+
+
+  proxy_service:
+    image: proxy_service
+    build: ./ng
+    container_name: proxy_service
+    restart: always
+    volumes:
+      - ./ng/nginx.conf:/etc/nginx.conf
+    networks:
+      - microservices
+    ports:
+      - 80:80
+    depends_on:
+      - backend
+    expose:
+      - 80
+
+  frontend:
+    image: frontend
+    build: ./frontend
+    container_name: frontend
+    restart: always
+    depends_on:
+      - proxy_service
+      - backend
+    networks:
+      - microservices
+    ports:
+      - 4200:4200
+    expose:
+      - 4200
+
+    
+networks:
+  microservices:
+    driver: bridge
+
+  
