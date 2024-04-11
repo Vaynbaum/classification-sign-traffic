@@ -12,3 +12,7 @@
 > npm i
 > 
 > npm run start
+
+Средства разработки - `vs code`
+
+Для просмотра документации (методов) backend'а - [Swagger](http://localhost:8000/docs)
